@@ -13,7 +13,7 @@ Gigacoin Core connects to the Gigacoin peer-to-peer network to download and full
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about Gigacoin Core is available in the [doc folder](/doc).
 
 License
 -------
