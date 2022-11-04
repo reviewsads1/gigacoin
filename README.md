@@ -3,7 +3,7 @@ Gigacoin Core integration/staging tree
 
 
 
-For an immediately usable, binary version of the Bitcoin Core software, 
+For an immediately usable, binary version of the Gigacoin Core software, 
 
 
 What is Gigacoin Core?
